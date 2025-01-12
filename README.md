@@ -1,0 +1,3 @@
+### M?c tiêu
+> Nh?n di?n c? ch? tay b?ng camera laptop.
+> Ði?u khi?n LED trên Raspberry Pi (b?t/t?t) theo c? ch? tay.
